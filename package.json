@@ -1,0 +1,28 @@
+{
+    "title": "Stylish Portfolio",
+    "name": "startbootstrap-stylish-portfolio",
+    "version": "3.3.8",
+    "description": "A stylish portfolio HTML template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio",
+    "bugs": {
+        "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
+        "email": "feedback@startbootstrap.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git"
+    }
+}
